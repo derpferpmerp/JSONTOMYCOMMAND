@@ -1,0 +1,22 @@
+{
+  "kits": {
+    "a": {
+      "CMDID": "ID_CMD",
+      "INVSLOTS": [
+        {
+          "ID": "ITMID",
+          "ITEM": "ITM"
+        }
+      ]
+    },
+    "b": {
+      "CMDID": "ID_CMD2",
+      "INVSLOTS": [
+        {
+          "ID": "ITMID2",
+          "ITEM": "ITM2"
+        }
+      ]
+    }
+  }
+}
