@@ -2,7 +2,7 @@
 This Project was created in order for a user to be able to import JSON into the MyCommand Plugin on Spigot.
 
 # Installation:
-```bash
+```sh
 Reccomended Method (Installing Through Scripts):
   Download Start Script:
     WINDOWS (.bat): curl https://raw.githubusercontent.com/derpferpmerp/JSONTOMYCOMMAND/master/start.bat -O
@@ -30,7 +30,7 @@ Installing Through Git:
   python main.py
 ```
 # Documentation
-```bash
+```sh
 Commands:
 yml - converts JSON/file.json into YAML formatted MyCommand Text, then prints it
 loadjson - updates the json from the web
