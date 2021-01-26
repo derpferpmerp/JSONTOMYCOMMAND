@@ -5,8 +5,8 @@ This Project was created in order for a user to be able to import JSON into the 
 ```bash
 Reccomended Method (Installing Through Scripts):
   Download Start Script:
-    WINDOWS (.bat): curl https://github.com/derpferpmerp/JSONTOMYCOMMAND/releases/download/v0.0.1/start.bat -O
-    MACOSX (.sh): curl https://github.com/derpferpmerp/JSONTOMYCOMMAND/releases/download/v0.0.1/start.sh -O
+    WINDOWS (.bat): curl https://raw.githubusercontent.com/derpferpmerp/JSONTOMYCOMMAND/master/start.bat -O
+    MACOSX (.sh): curl https://raw.githubusercontent.com/derpferpmerp/JSONTOMYCOMMAND/master/start.sh -O
   Add Permissions:
     WINDOWS: chmod 777 start.bat
     MACOSX: chmod 777 start.sh
