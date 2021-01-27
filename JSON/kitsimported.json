@@ -1,1 +1,85 @@
-{"kits":{"b":{"CMDID":"ID_CMD2","INVSLOTS":[{"ID":"ITMID2","ITEM":"ITM2"}]},"iron":{"CMDID":"iron","INVSLOTS":[{"ID":"armor.head","ITEM":"minecraft:iron_helmet {Unbreakable:1b}"},{"ID":"armor.chest","ITEM":"minecraft:iron_chestplace {Unbreakable:1b}"},{"ID":"armor.legs","ITEM":"minecraft:iron_leggings {Unbreakable:1b"},{"ID":"armor.feet","ITEM":"minecraft:iron_boots {Unbreakable:1b}"}]}}}
+{
+	"kits": {
+		"iron": {
+			"CMDID": "iron",
+			"CMDTYPE": "ARMOR",
+			"INVSLOTS": [
+				{
+					"ID": "armor.head",
+					"ITEM": "minecraft:iron_helmet {Unbreakable:1b}"
+				},
+				{
+					"ID": "armor.chest",
+					"ITEM": "minecraft:iron_chestplace {Unbreakable:1b}"
+				},
+				{
+					"ID": "armor.legs",
+					"ITEM": "minecraft:iron_leggings {Unbreakable:1b"
+				},
+				{
+					"ID": "armor.feet",
+					"ITEM": "minecraft:iron_boots {Unbreakable:1b}"
+				}
+			]
+		},
+		"prot": {
+			"CMDID": "protection",
+			"CMDTYPE": "ENCHANT",
+			"INVSLOTS": [
+				{
+					"ID": "armor.head",
+					"ENCHANTS": [
+						{
+							"ID": "Protection",
+							"LEVEL": "5"
+						}
+					]
+				}
+			]
+		},
+		"diamond": {
+			"CMDID": "diamond",
+			"CMDTYPE": "ARMOR",
+			"INVSLOTS": [
+				{
+					"ID": "armor.head",
+					"ITEM": "minecraft:diamond_helmet {Unbreakable:1b}"
+				},
+				{
+					"ID": "armor.chest",
+					"ITEM": "minecraft:diamond_chestplace {Unbreakable:1b}"
+				},
+				{
+					"ID": "armor.legs",
+					"ITEM": "minecraft:diamond_leggings {Unbreakable:1b"
+				},
+				{
+					"ID": "armor.feet",
+					"ITEM": "minecraft:diamond_boots {Unbreakable:1b}"
+				}
+			]
+		},
+		"netherite": {
+			"CMDID": "netherite",
+			"CMDTYPE": "ARMOR",
+			"INVSLOTS": [
+				{
+					"ID": "armor.head",
+					"ITEM": "minecraft:netherite_helmet {Unbreakable:1b}"
+				},
+				{
+					"ID": "armor.chest",
+					"ITEM": "minecraft:netherite_chestplace {Unbreakable:1b}"
+				},
+				{
+					"ID": "armor.legs",
+					"ITEM": "minecraft:netherite_leggings {Unbreakable:1b"
+				},
+				{
+					"ID": "armor.feet",
+					"ITEM": "minecraft:netherite_boots {Unbreakable:1b}"
+				}
+			]
+		}
+	}
+}
